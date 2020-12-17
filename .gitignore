@@ -3,3 +3,4 @@ setting.json
 **/*.xls*
 *.rar
 *.csv
+.idea
